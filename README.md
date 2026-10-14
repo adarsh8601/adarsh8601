@@ -1,18 +1,136 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building Data Science & Machine Learning projects, including SQL-based analytics systems and real-world datasets.<br><br>👯 I’m looking to collaborate on  <br>Open-source Data Science, AI/ML projects, and research-oriented internships or hackathons.<br><br>🤝 I’m looking for help with  <br>Advanced Machine Learning, Deep Learning, and getting remote Data Science/Analytics internships.<br><br>🌱 I’m currently learning  <br>Python, Data Science, Machine Learning, SQL (MSSQL), AI/ML, and model deployment.<br><br>💬 Ask me about  <br>Data Science, Python, SQL, Machine Learning basics, AI tools, and career guidance for freshers.<br><br>⚡ Fun fact  <br>I love turning raw data into meaningful stories and insights — data speaks, I just translate 😄<br>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adarsh%20Giri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20SQL%20Analytics&descAlignY=58&descSize=18" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Turning+raw+data+into+meaningful+stories;Python+%E2%80%A2+SQL+%E2%80%A2+Machine+Learning+%E2%80%A2+Deep+Learning;Open+to+remote+internships+%26+collaborations" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-giri-252b60293/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ag1425562@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adarsh8601&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adarsh8601&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh8601&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh-giri-252b60293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ag1425562@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/adarsh8601"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=adarsh8601&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adarsh8601&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+> *"Data speaks — I just translate."* 😄
+
+I'm a **Data Science & Machine Learning enthusiast** who enjoys turning messy, real-world datasets into clear insights and working models. My focus is on **SQL-based analytics**, **predictive modelling**, and taking models from notebook to **deployment**.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔭 Currently Working On
+- Data Science & ML projects on real-world datasets
+- SQL-based analytics systems (MSSQL)
+
+### 🌱 Currently Learning
+- Advanced Machine Learning & Deep Learning
+- Model deployment & MLOps basics
+- AI/ML tools and workflows
+
+    </td>
+    <td width="50%" valign="top">
+
+### 👯 Open to Collaborate On
+- Open-source Data Science & AI/ML projects
+- Research-oriented internships & hackathons
+
+### 💬 Ask Me About
+- Python, SQL & Data Analysis
+- Machine Learning fundamentals
+- Career guidance for freshers
+
+    </td>
+  </tr>
+</table>
+
+### 🤝 Looking For
+**Remote Data Science / Data Analytics internships** and mentorship in Advanced ML & Deep Learning.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Data Analysis & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+</p>
+
+**Machine Learning & Deep Learning**
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh8601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh8601&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adarsh8601&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh8601&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧠 How I Work With Data
+
+```python
+class AdarshGiri:
+    role      = "Aspiring Data Scientist"
+    focus     = ["Data Analysis", "Machine Learning", "SQL Analytics"]
+    learning  = ["Deep Learning", "Model Deployment"]
+    seeking   = "Remote Data Science / Analytics Internship"
+
+    def workflow(self, raw_data):
+        clean    = self.clean(raw_data)
+        insights = self.explore(clean)
+        model    = self.train(clean)
+        return self.tell_story(insights, model)  # data speaks, I translate
+```
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving a star to my repositories — it keeps me motivated!</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</p>
