@@ -128,7 +128,7 @@ I'm a **Data Science & Machine Learning enthusiast** who enjoys turning messy, r
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh8601&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="95%" src="https://ghchart.rshah.org/36BCF7/adarsh8601" alt="Contribution Graph" />
 </p>
 
 ---
