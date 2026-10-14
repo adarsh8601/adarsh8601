@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/adarsh-giri-252b60293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ag1425562@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/adarsh8601"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adarsh8601&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adarsh8601.adarsh8601&left_text=PROFILE%20VIEWS&left_color=%230f2027&right_color=%2336BCF7" />
 </p>
 
 ---
