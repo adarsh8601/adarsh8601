@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://adarsh-giri-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-36BCF7?style=for-the-badge&labelColor=0f2027" /></a>
   <a href="https://www.linkedin.com/in/adarsh-giri-252b60293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ag1425562@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/adarsh8601"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -55,6 +56,26 @@ I'm a **Data Science & Machine Learning enthusiast** who enjoys turning messy, r
 
 ### 🤝 Looking For
 **Remote Data Science / Data Analytics internships** and mentorship in Advanced ML & Deep Learning.
+
+---
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://adarsh-giri-portfolio.vercel.app/">
+    <img width="90%" src="https://image.thum.io/get/width/1280/crop/720/noanimate/https://adarsh-giri-portfolio.vercel.app/" alt="Adarsh Giri Portfolio Preview" style="border-radius:12px;" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Projects, skills, and my journey in Data Science — all in one place.</i>
+</p>
+
+<p align="center">
+  <a href="https://adarsh-giri-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-%E2%86%92-36BCF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f2027" height="40" />
+  </a>
+</p>
 
 ---
 
